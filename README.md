@@ -2,7 +2,7 @@
 
 <script>
     window.ht_config = {
-        appId : '5e5932f6-aafe-409d-af53-eeaf5706d7eb', 
+        appId : 'c43a0921-aa6a-439e-8431-05c62afcc82c', 
         host : 'https://hey-there.io',
         resource : 'https://hey-there.io/hey-there-resource',
     };
